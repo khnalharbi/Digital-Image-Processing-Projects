@@ -1,6 +1,6 @@
 
-P1.m : Texture Analysis 
+#P1.m : Texture Analysis 
 
-P2.m : Texture Segmentation
+#P2.m : Texture Segmentation
 
-P3.m : SIFT and Image Matching
+#P3.m : SIFT and Image Matching
